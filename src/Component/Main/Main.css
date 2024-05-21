@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poetsen+One&display=swap');
+
+.mainheading{
+    font-family: DynaPuff;
+}
+.mainBox{
+    position: absolute;
+    left: 30%;
+}
+
+.btn2{
+    position: absolute;
+    top: 5rem;
+}
+
+.main{
+    margin-top: 5rem;
+}
+
+.items{
+    width: 30%;
+    position: absolute;
+    top:17rem ;
+    left: 35%;
+}
